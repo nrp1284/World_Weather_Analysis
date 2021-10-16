@@ -6,7 +6,7 @@
 
 # Project Overview: 
 
-Jack who loves PlanMyTrip app. Well I love it too. And, as with any new product, stakeholders recommended a few changes to take the app to the next level. Specifically, they recommend adding the weather description to the weather data to filter the by weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations,
+Jack who loves PlanMyTrip app. Well I love it too. And, as with any new product, stakeholders recommended a few changes to take the app to the next level. Specifically, they recommend adding the weather description to the weather data to filter the by weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations
 
 ## Project Deliverables:
 
